@@ -27,4 +27,4 @@
 
 
 read your name
-echo"your name=$name"
+echo "your name=$name"
